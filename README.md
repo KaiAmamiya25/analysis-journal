@@ -6,6 +6,8 @@ who combines **SMC (Smart Money Concepts)** & **ICT methodology** in analyzing v
 This repo is my personal space to document monthly market outlooks and trading thesis —  
 tracking my thought process, scenario planning, and analysis over time.
 
+Feel Free to Star This Repo if u think my insight useful
+
 ---
 
 ## 📁 What's in This Repo?
