@@ -1,6 +1,6 @@
 # 📊 Market Outlook & Trading Thesis
 
-Hey! I'm **Kai Amamiya** (Dylan Syawali M) — a retail trader & market enthusiast  
+Hey! I'm **Kai Amamiya**  — a retail trader & market enthusiast  
 who combines **SMC (Smart Money Concepts)** & **ICT methodology** in analyzing various markets.
 
 This repo is my personal space to document monthly market outlooks and trading thesis —  
